@@ -1,0 +1,26 @@
+
+.App{
+    display: flex;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.btn {
+    background: #3b0e96;
+    border-radius: 8px;
+    color:white;
+}
+.btn:hover {
+    background: #20b02c;
+    }
